@@ -9,10 +9,10 @@ I’m a **Senior AI Research Engineer** at **Huawei**, holding a **PhD in Astron
 
 I’m passionate about building intelligent systems that blend research, and data-driven reasoning.
 
-### 📝 Also Writing
+#### 📝 Also Writing
 I share essays on **AI, data systems, and reasoning frameworks** in my Medium series:  
 [**Veri Üzerine Düşünceler**](https://medium.com/@k.ulgen90)
 
-### 🌍 Connect with Me
-- [**LinkedIn**]([https://www.linkedin.com/in/eyupkaanulgen](https://www.linkedin.com/in/eyüp-kaan-ülgen-ph-d-71a927b6/))  
-- [**Medium**]([https://medium.com/@eyupkaanulgen](https://medium.com/@k.ulgen90))
+#### 🌍 Connect
+- [**LinkedIn**](https://www.linkedin.com/in/eyüp-kaan-ülgen-ph-d-71a927b6/)
+- [**Medium**](https://medium.com/@k.ulgen90)
