@@ -16,4 +16,3 @@ I share essays on **AI, data systems, and reasoning frameworks** in my Medium se
 ### 🌍 Connect with Me
 - [**LinkedIn**]([https://www.linkedin.com/in/eyupkaanulgen](https://www.linkedin.com/in/eyüp-kaan-ülgen-ph-d-71a927b6/))  
 - [**Medium**]([https://medium.com/@eyupkaanulgen](https://medium.com/@k.ulgen90))
-- 
